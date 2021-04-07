@@ -1,4 +1,4 @@
-<p style="font-size:20px"> Hey there, I'm Andy! I'm currently working on transferring to San Diego State University. </p>
+<p style="font-size:40px"> Hey there, I'm Andy! I'm currently working on transferring to San Diego State University. </p>
 
 About me:
 
