@@ -1,10 +1,10 @@
-<p style="font-size:40px"> Hey there, I'm Andy! I'm currently working on transferring to San Diego State University. </p>
+## Hey there, I'm Andy! I'm currently working on transferring to San Diego State University
 
-About me:
+### About me:
 
-- 🔭 I’m currently working on Python related projects
-- 🌱 I’m currently learning Python
+- I’m currently working on Python related projects
+- I’m currently learning Python
+- I'm experienced with Java
 
-How to reach me:
-
--->
+### How to reach me:
+- Discord - Undeh#5337
